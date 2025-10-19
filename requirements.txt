@@ -1,0 +1,4 @@
+google-generativeai>=0.3.0
+gradio>=4.19.2
+python-dotenv>=1.0.1
+pandas>=2.2.0

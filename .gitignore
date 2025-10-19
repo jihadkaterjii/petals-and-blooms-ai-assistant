@@ -1,0 +1,28 @@
+# Ignore environment and secret files
+.env
+*.env
+
+# Ignore local data files (JSON exports)
+customer_leads.json
+customer_feedback.json
+
+# Ignore Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Ignore Jupyter and Colab artifacts
+.ipynb_checkpoints/
+*.ipynb
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore system and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
