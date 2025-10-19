@@ -13,9 +13,7 @@ __pycache__/
 *.pyd
 *.log
 
-# Ignore Jupyter and Colab artifacts
-.ipynb_checkpoints/
-*.ipynb
+
 
 # Ignore virtual environments
 venv/
